@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OpenMaths
 {
-    public class Class1
+    class Vector3
     {
     }
 }
